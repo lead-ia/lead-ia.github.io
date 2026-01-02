@@ -52,7 +52,7 @@ O Leadia garante **resposta imediata, organização e conversão**.
 ### 2.1 Lead vs Paciente
 
 - **Lead:** Pessoa que inicia contato via WhatsApp sem consulta confirmada  
-- **Paciente:** Lead que já possui consulta agendada ou histórico
+- **Paciente:** Lead que já possui pelo menos uma consulta realizada
 
 > Todo contato inicia como **Lead**.
 
