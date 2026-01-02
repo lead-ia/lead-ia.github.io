@@ -83,6 +83,7 @@ O Leadia:
   - CPF
   - Email
   - Telefone
+  - Data de Nascimento
 - Envia:
   - Preço da consulta
   - Formas de pagamento (informativo)
@@ -142,6 +143,7 @@ O Leadia:
 #### 3. Gestão financeira (informativa)
 - Envio de informações de pagamento
 - Solicitação de comprovante
+- Provê dashboard com dados de faturamento diarios, mensais e anuais.
 
 > ⚠️ O Leadia **não processa pagamentos**.  
 > O dinheiro **não passa pela plataforma**.  
