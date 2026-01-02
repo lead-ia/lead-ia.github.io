@@ -10,7 +10,7 @@
 
 ### 1.1 O que é o Leadia
 
-O **Leadia** é uma **secretária virtual 24/7 via WhatsApp**, focada em **transformar leads em pacientes**, garantindo **conversão em agendamentos de consulta** para médicos individuais.
+O **Leadia** é uma **secretária virtual 24/7 via WhatsApp**, focada em **transformar leads em pacientes**, aumentando a chance de **conversão em agendamentos de consulta** para médicos individuais.
 
 O produto automatiza o atendimento inicial, respostas administrativas e o processo de agendamento, mantendo comunicação humanizada e alinhada ao estilo do médico.
 
