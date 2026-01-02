@@ -1,4 +1,4 @@
-# 📄 Documento Oficial — Leadia V0
+# 📄 Documento Oficial — LeadIA V0
 
 **Versão:** 0.1  
 **Status:** Fonte única da verdade (Produto + Engenharia)  
