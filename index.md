@@ -32,7 +32,7 @@ Médicos perdem consultas e receita porque:
 - Atendimento administrativo consome tempo
 - Falta consistência no processo de agendamento
 
-O Leadia garante **resposta imediata, organização e conversão**.
+O LeadIA garante **resposta imediata, organização e aumenta as chances de conversão**.
 
 ---
 
